@@ -1,0 +1,182 @@
+[
+    {
+        "expansion": "Core",
+        "name": "01A",
+        "reversename": "01B",
+        "boundingpath": [
+            [0,0],[0,5],[5,5],[5,0]
+        ],
+        "attachments": [
+            {
+                "cells": [
+                    {
+                        "coords": [0,2],
+                        "type": 1
+                    },
+                    {
+                        "coords": [0,3],
+                        "type": -1
+                    }
+                ],
+                "terrain": 1,
+                "orientation": 1
+            },
+            {
+                "cells": [
+                    {
+                        "coords": [5,2],
+                        "type": 1
+                    },
+                    {
+                        "coords": [5,3],
+                        "type": -1
+                    }
+                ],
+                "terrain": 1,
+                "orientation": 1
+            },
+            {
+                "cells": [
+                    {
+                        "coords": [2,5],
+                        "type": 1
+                    },
+                    {
+                        "coords": [3,5],
+                        "type": -1
+                    }
+                ],
+                "terrain": 1,
+                "orientation": 1
+            }
+        ]
+    },
+    {
+        "expansion": "Core",
+        "name": "01B",
+        "reversename": "01A",
+        "boundingpath": [
+            [0,0],[0,5],[5,5],[5,0]
+        ],
+        "attachments": [
+            {
+                "cells": [
+                    {
+                        "coords": [0,2],
+                        "type": -1
+                    },
+                    {
+                        "coords": [0,3],
+                        "type": 1
+                    }
+                ],
+                "terrain": 0,
+                "orientation": -1
+            },
+            {
+                "cells": [
+                    {
+                        "coords": [2,0],
+                        "type": 1
+                    },
+                    {
+                        "coords": [3,0],
+                        "type": -1
+                    }
+                ],
+                "terrain": 0,
+                "orientation": -1
+            },
+            {
+                "cells": [
+                    {
+                        "coords": [2,5],
+                        "type": -1
+                    },
+                    {
+                        "coords": [3,5],
+                        "type": 1
+                    }
+                ],
+                "terrain": 0,
+                "orientation": -1
+            }
+        ]
+    },
+    {
+        "expansion": "Core",
+        "name": "02A",
+        "reversename": "02B",
+        "boundingpath": [
+            [0,0],[5,0],[5,3],[0,3]
+        ],
+        "attachments": [
+            {
+                "cells": [
+                    {
+                        "coords": [0,2],
+                        "type": 1
+                    },
+                    {
+                        "coords": [0,3],
+                        "type": -1
+                    }
+                ],
+                "terrain": 1,
+                "orientation": 1
+            },
+            {
+                "cells": [
+                    {
+                        "coords": [2,3],
+                        "type": 1
+                    },
+                    {
+                        "coords": [3,3],
+                        "type": -1
+                    }
+                ],
+                "terrain": 1,
+                "orientation": 1
+            }
+        ]
+    },
+    {
+        "expansion": "Core",
+        "name": "02B",
+        "reversename": "02A",
+        "boundingpath": [
+            [0,0],[3,0],[3,5],[0,5]
+        ],
+        "attachments": [
+            {
+                "cells": [
+                    {
+                        "coords": [0,2],
+                        "type": -1
+                    },
+                    {
+                        "coords": [0,3],
+                        "type": 1
+                    }
+                ],
+                "terrain": 0,
+                "orientation": -1
+            },
+            {
+                "cells": [
+                    {
+                        "coords": [0,5],
+                        "type": -1
+                    },
+                    {
+                        "coords": [1,5],
+                        "type": 1
+                    }
+                ],
+                "terrain": 0,
+                "orientation": -1
+            }
+        ]
+    }
+]

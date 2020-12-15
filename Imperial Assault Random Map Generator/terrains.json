@@ -1,0 +1,32 @@
+[
+    {
+        "index": 0,
+        "name": "desert",
+        "attribute": "exterior"
+    },
+    {
+        "index": 1,
+        "name": "forest",
+        "attribute": "exterior"
+    },
+    {
+        "index": 2,
+        "name": "snow",
+        "attribute": "exterior"
+    },
+    {
+        "index": 3,
+        "name": "mercenary",
+        "attribute": "interior"
+    },
+    {
+        "index": 4,
+        "name": "imperial",
+        "attribute": "interior"
+    },
+    {
+        "index": 5,
+        "name": "snow-inside",
+        "attribute": "interior"
+    },
+]
